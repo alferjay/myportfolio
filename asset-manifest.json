@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.f38a896e.chunk.css",
+    "main.js": "/portfolio/static/js/main.644c3aad.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.644c3aad.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.a6dcd2e1.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.a6dcd2e1.js.map",
+    "static/js/2.4ea80ce4.chunk.js": "/portfolio/static/js/2.4ea80ce4.chunk.js",
+    "static/js/2.4ea80ce4.chunk.js.map": "/portfolio/static/js/2.4ea80ce4.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.cd626644b8d907d1720ab698412fa4fd.js": "/portfolio/precache-manifest.cd626644b8d907d1720ab698412fa4fd.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/main.f38a896e.chunk.css.map": "/portfolio/static/css/main.f38a896e.chunk.css.map",
+    "static/js/2.4ea80ce4.chunk.js.LICENSE.txt": "/portfolio/static/js/2.4ea80ce4.chunk.js.LICENSE.txt",
+    "static/media/aj-logo.svg": "/portfolio/static/media/aj-logo.8b1fe587.svg",
+    "static/media/bg.jpg": "/portfolio/static/media/bg.b43897a2.jpg",
+    "static/media/img1.jpg": "/portfolio/static/media/img1.3458d8a3.jpg",
+    "static/media/img2.jpg": "/portfolio/static/media/img2.ee458a18.jpg",
+    "static/media/img3.jpg": "/portfolio/static/media/img3.6c41d3c0.jpg",
+    "static/media/img4.jpg": "/portfolio/static/media/img4.38de4083.jpg",
+    "static/media/laptop2.png": "/portfolio/static/media/laptop2.514d8652.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a6dcd2e1.js",
+    "static/js/2.4ea80ce4.chunk.js",
+    "static/css/main.f38a896e.chunk.css",
+    "static/js/main.644c3aad.chunk.js"
+  ]
+}
