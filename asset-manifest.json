@@ -1,29 +1,32 @@
 {
   "files": {
-    "main.css": "/myportfolio/static/css/main.5f6395e6.chunk.css",
-    "main.js": "/myportfolio/static/js/main.4ac58605.chunk.js",
-    "main.js.map": "/myportfolio/static/js/main.4ac58605.chunk.js.map",
+    "main.css": "/myportfolio/static/css/main.8a697f71.chunk.css",
+    "main.js": "/myportfolio/static/js/main.941e7e1e.chunk.js",
+    "main.js.map": "/myportfolio/static/js/main.941e7e1e.chunk.js.map",
     "runtime-main.js": "/myportfolio/static/js/runtime-main.96a916e9.js",
     "runtime-main.js.map": "/myportfolio/static/js/runtime-main.96a916e9.js.map",
-    "static/js/2.631015fc.chunk.js": "/myportfolio/static/js/2.631015fc.chunk.js",
-    "static/js/2.631015fc.chunk.js.map": "/myportfolio/static/js/2.631015fc.chunk.js.map",
+    "static/js/2.f8a76a83.chunk.js": "/myportfolio/static/js/2.f8a76a83.chunk.js",
+    "static/js/2.f8a76a83.chunk.js.map": "/myportfolio/static/js/2.f8a76a83.chunk.js.map",
     "index.html": "/myportfolio/index.html",
-    "precache-manifest.8dc9b48d6506574ffbe0436e723b1dd0.js": "/myportfolio/precache-manifest.8dc9b48d6506574ffbe0436e723b1dd0.js",
+    "precache-manifest.0deec3f74a5d8eec6998a293cd4c9a29.js": "/myportfolio/precache-manifest.0deec3f74a5d8eec6998a293cd4c9a29.js",
     "service-worker.js": "/myportfolio/service-worker.js",
-    "static/css/main.5f6395e6.chunk.css.map": "/myportfolio/static/css/main.5f6395e6.chunk.css.map",
-    "static/js/2.631015fc.chunk.js.LICENSE.txt": "/myportfolio/static/js/2.631015fc.chunk.js.LICENSE.txt",
+    "static/css/main.8a697f71.chunk.css.map": "/myportfolio/static/css/main.8a697f71.chunk.css.map",
+    "static/js/2.f8a76a83.chunk.js.LICENSE.txt": "/myportfolio/static/js/2.f8a76a83.chunk.js.LICENSE.txt",
+    "static/media/Alfer Jay Salvador - Web Developer.pdf": "/myportfolio/static/media/Alfer Jay Salvador - Web Developer.88b732b9.pdf",
     "static/media/aj-logo.svg": "/myportfolio/static/media/aj-logo.8b1fe587.svg",
     "static/media/bg.jpg": "/myportfolio/static/media/bg.b43897a2.jpg",
     "static/media/img1.jpg": "/myportfolio/static/media/img1.8fe1c81c.jpg",
     "static/media/img2.jpg": "/myportfolio/static/media/img2.ee458a18.jpg",
     "static/media/img3.jpg": "/myportfolio/static/media/img3.6c41d3c0.jpg",
-    "static/media/img4.jpg": "/myportfolio/static/media/img4.8d034ee2.jpg",
+    "static/media/img5.jpg": "/myportfolio/static/media/img5.a6fbf2d9.jpg",
+    "static/media/img6.jpg": "/myportfolio/static/media/img6.b8c2b059.jpg",
+    "static/media/img7.jpg": "/myportfolio/static/media/img7.836dd60f.jpg",
     "static/media/laptop2.png": "/myportfolio/static/media/laptop2.514d8652.png"
   },
   "entrypoints": [
     "static/js/runtime-main.96a916e9.js",
-    "static/js/2.631015fc.chunk.js",
-    "static/css/main.5f6395e6.chunk.css",
-    "static/js/main.4ac58605.chunk.js"
+    "static/js/2.f8a76a83.chunk.js",
+    "static/css/main.8a697f71.chunk.css",
+    "static/js/main.941e7e1e.chunk.js"
   ]
 }
